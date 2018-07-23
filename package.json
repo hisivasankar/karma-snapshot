@@ -1,5 +1,5 @@
 {
-  "name": "karma-snapshot",
+  "name": "fork-karma-snapshot",
   "version": "0.6.0",
   "main": "lib/index.js",
   "description": "Karma plugin for snapshot testing.",
