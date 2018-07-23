@@ -28,7 +28,9 @@
     "LICENSE",
     "README.md"
   ],
-  "scripts": {},
+  "scripts": {
+    "release": "np"
+  },
   "dependencies": {
     "body-parser": "^1.18.3",
     "express": "^4.16.3",
@@ -36,5 +38,7 @@
     "remark-parse": "^4.0.0",
     "unified": "^6.1.5"
   },
-  "devDependencies": {}
+  "devDependencies": {
+    "np": "^3.0.4"
+  }
 }
